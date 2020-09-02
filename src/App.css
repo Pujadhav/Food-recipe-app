@@ -1,0 +1,32 @@
+.jumbotron{
+  background-color: #cdb30c;
+  padding:70px;
+  text-align:center;
+} 
+.jumbotron input{
+  border:none;
+  border-radius: 5px solid black;
+}
+.brandicon{
+  font-size: 120px;
+  padding-right:20px;
+}
+.jumbotron input:focus, button:focus{
+  outline: none;
+}
+.card-body{
+  height:100px;
+}
+.card{
+  margin-bottom:10px;
+}
+.recipelink a{
+  font-size: 20px;
+  color:#62760c;
+  font-weight: 500;
+  text-decoration: none;
+
+}
+.recipelink a:hover{
+  color:#535204;
+}
